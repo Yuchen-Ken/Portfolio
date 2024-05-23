@@ -75,7 +75,7 @@ body{
  }
 
  .header-container h1 a{
-    background-image: url(../切版任務作業二/imgs/logo.png);
+    background-image: url(../Portfolio/imgs/logo.png);
     width: 90px;
     height: 40px;
     display: block;
@@ -154,7 +154,7 @@ body{
     content: "";
     width: 72px;
     height: 72px;
-    background-image: url(../切版任務作業二/imgs/quote-left.png);
+    background-image: url(../Portfolio/imgs/quote-left.png);
     position: absolute;
     top: 0;
     left: 0;
@@ -163,7 +163,7 @@ body{
     content: "";
     width: 72px;
     height: 72px;
-    background-image: url(../切版任務作業二/imgs/quote-right.png);
+    background-image: url(../Portfolio/imgs/quote-right.png);
     position: absolute;
     bottom: 0;
     right: 0;
@@ -315,7 +315,7 @@ body{
 .footer-bg{
     border-top: 1px solid #f1f1f1;
     padding: 80px 0px;
-    background-image: url(../切版任務作業二/imgs/footer-lg.png);
+    background-image: url(../Portfolio/imgs/footer-lg.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -379,7 +379,7 @@ body{
 /* 表尾區域ＲＷＤ */
 @media (max-width: 992px){
     .footer-bg{
-        background-image: url(../切版任務作業二/imgs/footer-bg-sm.png);
+        background-image: url(../Portfolio/imgs/footer-bg-sm.png);
         background-repeat: no-repeat;
         background-size: cover;
     }
